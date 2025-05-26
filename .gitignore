@@ -1,0 +1,8 @@
+.env
+node_modules/
+*.log
+npm-debug.log*
+*.tmp
+.DS_Store
+Thumbs.db
+config.json
