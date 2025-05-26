@@ -1,4 +1,4 @@
-# Bot de Moderación para Discord
+# LexBot
 
 ⚠️ **AVISO LEGAL IMPORTANTE** ⚠️
 
